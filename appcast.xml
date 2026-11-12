@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TextForge</title>
+        <item>
+            <title>1.01.1</title>
+            <pubDate>Thu, 12 Nov 2026 15:35:14 -0800</pubDate>
+            <sparkle:version>20261112.1534</sparkle:version>
+            <sparkle:shortVersionString>1.01.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sagehumphries/TextForge-releases/releases/download/v1.01.1/TextForge-1.01.1.zip" length="4057229" type="application/octet-stream" sparkle:edSignature="jsjEZEmK6sRgX9xR3pMQ1YWq3vpoeBISmv5pd0ZyvdtcXGIoRgSm3t6EZQbot1ZcblOnnI75UQIT4en9Mbc3AA=="/>
+        </item>
+    </channel>
+</rss>
