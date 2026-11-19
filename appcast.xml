@@ -3,12 +3,12 @@
     <channel>
         <title>TextForge</title>
         <item>
-            <title>1.4.0</title>
-            <pubDate>Wed, 18 Nov 2026 11:55:34 -0800</pubDate>
-            <sparkle:version>20261118.1154</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <title>1.5.0</title>
+            <pubDate>Wed, 18 Nov 2026 18:20:56 -0800</pubDate>
+            <sparkle:version>20261118.1819</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sagehumphries/TextForge-releases/releases/download/v1.4.0/TextForge-1.4.0.zip" length="4233441" type="application/octet-stream" sparkle:edSignature="D7yOG3xfqtfhY157Ao/zHiLytL9xqUGySNh3rNqxviSRvOm+Hk+1pOAliLA/A32Iq+EK9orgHUl+CCgwfNZ0Aw=="/>
+            <enclosure url="https://github.com/sagehumphries/TextForge-releases/releases/download/v1.5.0/TextForge-1.5.0.zip" length="4360972" type="application/octet-stream" sparkle:edSignature="J1HHtGCJaWm0vbukT4zihJ8BXd1hd7TUUSYYEuE1AgRCGU56WJGu4o/cW60jSCxjvUY//sH7vvWmt4USgbObBg=="/>
         </item>
     </channel>
 </rss>
